@@ -1,0 +1,37 @@
+h1 {
+    color: #87a1e7;
+    background-color: beige;
+
+}
+
+#main{
+    background-color: rgb(213, 255, 255);
+}
+
+.Parrafo{
+    color:rgb(3, 0, 5);
+    background-color: #ffe4e1;
+}
+
+ol {
+	list-style: none;
+}
+
+ body {
+        background-color: #ffe4e1;
+       }
+      div {
+        background-color: beige;
+        color: #87a1e7;
+        
+       
+      }
+
+footer {
+    background: beige;
+    min-height: 5em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    }
+
